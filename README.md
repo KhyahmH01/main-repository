@@ -1,1 +1,1 @@
-# main-repository
+# example-repository
